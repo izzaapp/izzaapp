@@ -2,12 +2,12 @@
 
 **`Developer & Content Creator`**
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  Sebagai mahasiswa yang aktif dalam bidang teknologi Informasi dan memiliki minat untuk mengembangkan web, aplikasi, maupun game secara sistematis dan berkualitas. Saya juga merupakan  seorang konten kreator yang aktif pada sosial media dengan kemampuan untuk membuat proyek serta memanage waktu dengan baik.
 
 ---
 
 <p align="left">
-  <a href="youtube.com/">YouTube</a>
+  <a href="https://www.youtube.com/@Silverfish_Mc">YouTube</a>
 </p>
 
 <!--
