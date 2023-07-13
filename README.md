@@ -6,6 +6,7 @@
 
 Sebagai mahasiswa yang aktif dalam bidang teknologi Informasi dan memiliki minat untuk mengembangkan web, aplikasi, maupun game secara sistematis dan berkualitas. Saya juga merupakan  seorang konten kreator yang aktif pada sosial media dengan kemampuan untuk membuat proyek serta memanage waktu dengan baik.
 
+
 **Pengalaman Organisasi :**
 
 UKM Musik Universitas Semarang (Maret 2021 - November 2021)
@@ -44,7 +45,9 @@ fungsi tanpa server.
 ---
 
 <p align="left">
-  <a href="https://www.youtube.com/@Silverfish_Mc">YouTube</a>
+  <a href="https://www.youtube.com/@Silverfish_Mc?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+  <a href="https://www.linkedin.com/in/izza-yudandoro-4532b816b/">Linkedin</a>
 </p>
 
 <!--
