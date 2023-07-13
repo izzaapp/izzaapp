@@ -2,6 +2,8 @@
 
 **`Developer & Content Creator`**
 
+---
+
 Sebagai mahasiswa yang aktif dalam bidang teknologi Informasi dan memiliki minat untuk mengembangkan web, aplikasi, maupun game secara sistematis dan berkualitas. Saya juga merupakan  seorang konten kreator yang aktif pada sosial media dengan kemampuan untuk membuat proyek serta memanage waktu dengan baik.
 
 **Pengalaman Organisasi :**
@@ -17,7 +19,7 @@ Google Developer Student Clubs (GDSC) Universitas Semarang  (September 2020 - Ma
 **Pengalaman Lainnya :**
 
 Konten Kreator youtube                                (januari 2019 - Saat ini)
-• Membuat Konten game "Minecraft" dengan addon DLC (Downloadable Content) buatan sendiri menggunakan JS dan JSON dengan tema kearifan lokal.
+• Membuat Konten game "Minecraft" dengan addon DLC (Downloadable Content) buatan sendiri menggunakan Java dan JSON dengan tema kearifan lokal.
 
 DBS Foundation Coding Camp by Dicoding Academy           (Maret - Juni 2023)
 • Adalah pelatihan coding online untuk Fundamental DevOps Engineer
