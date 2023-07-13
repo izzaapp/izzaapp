@@ -2,20 +2,22 @@
 
 **`Developer & Content Creator`**
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
+<p align="left">
+  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+</p>
 
 ---
 
 Sebagai mahasiswa yang aktif dalam bidang teknologi Informasi dan memiliki minat untuk mengembangkan web, aplikasi, maupun game secara sistematis dan berkualitas. Saya juga merupakan  seorang konten kreator yang aktif pada sosial media dengan kemampuan untuk membuat proyek serta memanage waktu dengan baik.
 
 
-**Pengalaman Organisasi :**
+## Pengalaman Organisasi :
 
 UKM Musik Universitas Semarang (Maret 2021 - November 2021)
 -Multimedia
@@ -25,7 +27,7 @@ Memiliki tugas untuk membuat, mendesain, atau mengedit poster atau banner dan me
 Google Developer Student Clubs (GDSC) Universitas Semarang  (September 2020 - Maret 2021)
 • Merupakan kelompok komunitas yang berbasis pada universitas untuk mahasiswa yang tertarik dengan teknologi pengembang Google. Siswa dari semua program sarjana atau pascasarjana dengan minat untuk berkembang sebagai developer. Dengan bergabung dalam GDSC, mahasiswa dapat mengembangkan pengetahuan dalam lingkungan pembelajaran peer-to-peer dan membangun solusi untuk bisnis lokal dan belajar untuk menjadi seorang developer.
 
-**Pengalaman Lainnya :**
+## Pengalaman Lainnya :
 
 Konten Kreator youtube                                (januari 2019 - Saat ini)
 • Membuat Konten game "Minecraft" dengan addon DLC (Downloadable Content) buatan sendiri menggunakan Java dan JSON dengan tema kearifan lokal.
@@ -54,8 +56,11 @@ fungsi tanpa server.
 
 <p align="left">
   <a href="https://www.youtube.com/@Silverfish_Mc">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCNld-1Ger8dutrkKKCXzsCw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
-  <a href="https://www.linkedin.com/in/izza-yudandoro-4532b816b/">Linkedin</a>
+         <img alt="youtube subscribers" title="My YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCNld-1Ger8dutrkKKCXzsCw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+  <a href="https://www.linkedin.com/in/izza-yudandoro-4532b816b/">
+        <img alt="linkedin" title="My Linkedin" src="https://custom-icon-badges.demolab.com/badge/-Izza%20Yudandoro-0073b1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/izza-yudandoro-4532b816b/">
+        <img alt="instagram" title="My Instagram" src="https://custom-icon-badges.demolab.com/badge/-izzaapp-0095F6?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 <!--
