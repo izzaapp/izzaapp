@@ -1,5 +1,8 @@
-### Hi there 👋
+# Izzaapp
 
+**'Developer & Content Creator'**
+---
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 <!--
 **izzaapp/izzaapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
