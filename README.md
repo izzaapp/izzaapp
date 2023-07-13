@@ -1,8 +1,15 @@
-# Izzaapp
+# izzaapp
 
-**'Developer & Content Creator'**
----
+**`Developer & Content Creator`**
+
   Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+---
+
+<p align="left">
+  <a href="youtube.com/">YouTube</a>
+</p>
+
 <!--
 **izzaapp/izzaapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
