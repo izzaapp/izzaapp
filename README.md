@@ -29,7 +29,7 @@ Google Developer Student Clubs (GDSC) Universitas Semarang  (September 2020 - Ma
 
 ## Pengalaman Lainnya :
 
-Konten Kreator youtube                                (januari 2019 - Saat ini)
+Konten Kreator youtube                                      (januari 2019 - Saat ini)
 • Membuat Konten game "Minecraft" dengan addon DLC (Downloadable Content) buatan sendiri menggunakan Java dan JSON dengan tema kearifan lokal.
 
 DBS Foundation Coding Camp by Dicoding Academy           (Maret - Juni 2023)
@@ -37,7 +37,7 @@ DBS Foundation Coding Camp by Dicoding Academy           (Maret - Juni 2023)
  jalur pembelajaran. Dalam pelatihan ini saya belajar tentang jaringan komputer       dasar, web server, pengenalan web service Amazon
 (AWS), dan penerapan HTTPS.
 
-Kampus Merdeka SIB Batch 4 Dicoding Academy            (Februari - Juni 2023)
+Kampus Merdeka SIB Batch 4 Dicoding Academy                 (Februari - Juni 2023)
 -Pengembang Front-End Web dan back-End
 Membuat website dengan pendekatan mobile first dan mampu membuat website yang memiliki tampilan yang baik dan aksesibilitas konten.
 • Mempelajari pengetahuan back-end dasar seperti server dan klien, server Web dan Layanan Web, REST, dan
@@ -46,7 +46,15 @@ konsep didalamnya.
 • Menyelesaikan proyek akhir, di mana pengembangan aplikasi/solusi dilakukan untuk memvalidasi pengembangan produk
 keterampilan.
 
-IBM Back-End Development oleh Coursera                    (Maret - Saat ini)
+Kampus Merdeka Batch 5 PT. Telkom Indonesia (Persero) Tbk. (Agustus - Desember 2023) 
+- Developer
+• mMngembangkan aplikasi/platform dasar dengan fitur yang aman, menulis antarmuka pemrograman aplikasi (API) dan melakukan debugging
+  untuk menyelesaikan kesalahan dengan spesifikasi yang ditetapkan.
+• Membuat aplikasi tracking mobile untuk melacak aset milik klien dengan menggunakan framework React Native.
+• menjalankan pengujian perangkat lunakrutin untuk mengidentifikasicacat, kesalahan dan/atau kerentanan keamanan, serta,
+  melakukan pengujian unit setiap unit kode.
+  
+IBM Back-End Development oleh Coursera                        (Maret - Saat ini)
 • Membuat aplikasi back-end dengan bahasa pemrograman berorientasi objek termasuk Python sisi server sementara
 menggunakan kontrol versi dan manajer paket.
 • Belajar menerapkan dan menskalakan aplikasi menggunakan metodologi dan alat, Docker, Kubernetes, layanan mikro, dan
