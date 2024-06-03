@@ -48,7 +48,7 @@ keterampilan.
 
 Kampus Merdeka Batch 5 PT. Telkom Indonesia (Persero) Tbk. (Agustus - Desember 2023) 
 - Developer
-• Mngembangkan aplikasi/platform dasar dengan fitur yang aman, menulis antarmuka pemrograman aplikasi (API) dan melakukan debugging
+• Megembangkan aplikasi/platform dasar dengan fitur yang aman, menulis antarmuka pemrograman aplikasi (API) dan melakukan debugging
   untuk menyelesaikan kesalahan dengan spesifikasi yang ditetapkan.
 • Membuat aplikasi tracking mobile untuk melacak aset milik klien dengan menggunakan framework React Native.
 • menjalankan pengujian perangkat lunakrutin untuk mengidentifikasicacat, kesalahan dan/atau kerentanan keamanan, serta,
